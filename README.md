@@ -12,12 +12,19 @@ Currently only affects bloodsuckers. As I encounter more mutants in the game I w
 
 Expect this to be roughly 2 12x70 buckshots close range to kill (not tested).
 
+
+### Snork
+
+* Strike protection reduced from 3 to 1
+
+Expect this to be roughly 2 12x70 buckshots close range to kill (not tested).
+
 ### Bloodsucker
 
 * Strike protection reduced from 3 to 1
 * Max health reduced from 500 to 300
 
-Takes roughly 3-4 12x70 buckshots close range to kill.
+Takes roughly 4 12x70 buckshots close range to kill.
 
 ## Using Custom Values
 
