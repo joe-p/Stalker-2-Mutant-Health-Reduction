@@ -2,7 +2,7 @@
 
 This S.T.A.L.K.E.R. 2 mod makes mutants easier to kill by reducing their health pools and/or strike protection.
 
-Currently only affects bloodsuckers. As I encounter more mutants in the game I will adjust accordingly. Most of the balancing I do will be based on buckshot damage since that historically has been the best way to deal with mutants in past games. PRs are also welcome.
+Does not affect all mutants yet. As I encounter more mutants in the game I will adjust accordingly. Most of the balancing I do will be based on buckshot damage since that historically has been the best way to deal with mutants in past games. PRs are also welcome.
 
 ## Changes
 
@@ -11,7 +11,6 @@ Currently only affects bloodsuckers. As I encounter more mutants in the game I w
 * Max health reduced from 360 to 150
 
 Expect this to be roughly 2 12x70 buckshots close range to kill (not tested).
-
 
 ### Snork
 
