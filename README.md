@@ -6,6 +6,12 @@ Currently only affects bloodsuckers. As I encounter more mutants in the game I w
 
 ## Changes
 
+### Flesh
+
+* Max health reduced from 360 to 150
+
+Expect this to be roughly 2 12x70 buckshots close range to kill (not tested).
+
 ### Bloodsucker
 
 * Strike protection reduced from 3 to 1
