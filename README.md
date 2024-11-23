@@ -8,7 +8,8 @@ Currently only affects bloodsuckers. As I encounter more mutants in the game I w
 
 ### Bloodsucker
 
-* Strike protection reduced from 3 to 0
+* Strike protection reduced from 3 to 1
+* Max health reduced from 500 to 300
 
 Takes roughly 3-4 12x70 buckshots close range to kill.
 
