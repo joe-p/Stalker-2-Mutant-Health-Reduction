@@ -23,7 +23,7 @@ Expect this to be roughly 2 12x70 buckshots close range to kill (not tested).
 * Strike protection reduced from 3 to 1
 * Max health reduced from 500 to 300
 
-Takes roughly 4 12x70 buckshots close range to kill.
+Takes roughly 3 12x70 buckshots close range to kill.
 
 ## Using Custom Values
 
